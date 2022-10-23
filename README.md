@@ -48,3 +48,10 @@ so you have to decrease the value, for example(0.2, 0.5, etc).
 ## **tranform property:**
 
 I have also used tranform property, to translateY-axis and rotate the words.
+
+
+## **Below is the output:**
+
+https://user-images.githubusercontent.com/109755100/197382132-f0943121-a081-4a76-945c-6e96f0b9d9ff.mp4
+
+
